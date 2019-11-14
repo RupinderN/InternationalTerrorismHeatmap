@@ -1,5 +1,5 @@
 # Terrorism Heatmap
-Used Global Terrorism Database Reports from (1970-2017) to create global heat-map and plot other relationships
+Used Global Terrorism Database Reports from (1970-2017) to create global heat-map and plot other relationships. To use interactive folium heatmap, download the Jupyter notebook, import the required libraries, and simply run the file. 
 
 # International Terrorism Reports from 1970-1994
 ![1970-1994](https://user-images.githubusercontent.com/31901831/68835027-2c304780-0685-11ea-971a-1cc5fea7e1b9.PNG)
